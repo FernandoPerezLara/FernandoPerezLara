@@ -12,9 +12,7 @@ I study Computer Science Engineering at _Universidad Francisco de Vitoria_ and m
 
 ---
 
-[![Fernandos's github stats](https://github-readme-stats.vercel.app/api?username=FernandoPerezLara&count_private=true&show_icons=true&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/FernandoPerezLara)
-
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPerezLara&layout=compact&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/FernandoPerezLara" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=FernandoPerezLara&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=FernandoPerezLara&count_private=true&show_icons=true&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPerezLara&layout=compact&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
