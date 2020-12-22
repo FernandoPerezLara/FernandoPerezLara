@@ -9,3 +9,12 @@ I study Computer Science Engineering at _Universidad Francisco de Vitoria_ and m
 - 🤖 Love robotics; that's why I have built my own 3D Printer.
 - 🧬 I love science fiction. My favourite book is [Foundation](https://www.goodreads.com/book/show/29579.Foundation) and my favourite film is [Men In Black](https://www.filmaffinity.com/en/film968702.html).
 - 🎓 As a personal challenge, I usually learn a new programming language every three months.
+
+---
+
+[![Fernandos's github stats](https://github-readme-stats.vercel.app/api?username=FernandoPerezLara&count_private=true&show_icons=true&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/FernandoPerezLara)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPerezLara&layout=compact&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/FernandoPerezLara" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=FernandoPerezLara&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
